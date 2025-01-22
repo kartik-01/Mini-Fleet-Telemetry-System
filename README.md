@@ -31,6 +31,7 @@ The system consists of the following components:
 ## Planned Enhancements
 
 - Implement batch processing for historical data analysis
+- Implement Redis for caching
 - Add machine learning models for predictive maintenance
 - Enhance real-time visualization capabilities
 - Implement geofencing functionality
